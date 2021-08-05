@@ -1,0 +1,14 @@
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\b\Financeiro.Testes\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\b\Financeiro.Testes\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\b\Financeiro.Testes\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\b\Financeiro.Testes\Debug\netcoreapp3.1\appsettings.json
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\b\Financeiro.Testes\Debug\netcoreapp3.1\Financeiro.Testes.deps.json
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\b\Financeiro.Testes\Debug\netcoreapp3.1\Financeiro.Testes.runtimeconfig.json
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\b\Financeiro.Testes\Debug\netcoreapp3.1\Financeiro.Testes.runtimeconfig.dev.json
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\b\Financeiro.Testes\Debug\netcoreapp3.1\Financeiro.Testes.dll
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\Financeiro.Testes\Debug\netcoreapp3.1\Financeiro.Testes.csproj.AssemblyReference.cache
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\Financeiro.Testes\Debug\netcoreapp3.1\Financeiro.Testes.AssemblyInfoInputs.cache
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\Financeiro.Testes\Debug\netcoreapp3.1\Financeiro.Testes.AssemblyInfo.cs
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\Financeiro.Testes\Debug\netcoreapp3.1\Financeiro.Testes.csproj.CopyComplete
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\Financeiro.Testes\Debug\netcoreapp3.1\Financeiro.Testes.dll
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\Financeiro.Testes\Debug\netcoreapp3.1\Financeiro.Testes.genruntimeconfig.cache

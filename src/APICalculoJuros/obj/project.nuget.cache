@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "V2z+YgqCfr6NxdQaKuSKP1xcxl6y5XkaJmL0+Lwba//dH1J/8Zr2Z5ho4gcgGBrZVEvnlhXe1HQRCnakK9eodg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\clt-p\\Desktop\\Teste\\src\\APICalculoJuros\\APICalculoJuros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\clt-p\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\clt-p\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\clt-p\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512",
+    "C:\\Users\\clt-p\\.nuget\\packages\\swashbuckle.aspnetcore\\5.4.1\\swashbuckle.aspnetcore.5.4.1.nupkg.sha512",
+    "C:\\Users\\clt-p\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.4.1\\swashbuckle.aspnetcore.swagger.5.4.1.nupkg.sha512",
+    "C:\\Users\\clt-p\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.4.1\\swashbuckle.aspnetcore.swaggergen.5.4.1.nupkg.sha512",
+    "C:\\Users\\clt-p\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.4.1\\swashbuckle.aspnetcore.swaggerui.5.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

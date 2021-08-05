@@ -1,0 +1,16 @@
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\b\APITaxaJuros\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\b\APITaxaJuros\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\b\APITaxaJuros\bin\Debug\netcoreapp3.1\APITaxaJuros.exe
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\b\APITaxaJuros\bin\Debug\netcoreapp3.1\APITaxaJuros.deps.json
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\b\APITaxaJuros\bin\Debug\netcoreapp3.1\APITaxaJuros.runtimeconfig.json
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\b\APITaxaJuros\bin\Debug\netcoreapp3.1\APITaxaJuros.runtimeconfig.dev.json
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\b\APITaxaJuros\bin\Debug\netcoreapp3.1\APITaxaJuros.dll
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\APITaxaJuros\netcoreapp3.1\APITaxaJuros.AssemblyInfoInputs.cache
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\APITaxaJuros\netcoreapp3.1\APITaxaJuros.AssemblyInfo.cs
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\APITaxaJuros\netcoreapp3.1\staticwebassets\APITaxaJuros.StaticWebAssets.Manifest.cache
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\APITaxaJuros\netcoreapp3.1\staticwebassets\APITaxaJuros.StaticWebAssets.xml
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\APITaxaJuros\netcoreapp3.1\scopedcss\bundle\APITaxaJuros.styles.css
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\APITaxaJuros\netcoreapp3.1\APITaxaJuros.RazorTargetAssemblyInfo.cache
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\APITaxaJuros\netcoreapp3.1\APITaxaJuros.csproj.CopyComplete
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\APITaxaJuros\netcoreapp3.1\APITaxaJuros.dll
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\APITaxaJuros\netcoreapp3.1\APITaxaJuros.genruntimeconfig.cache

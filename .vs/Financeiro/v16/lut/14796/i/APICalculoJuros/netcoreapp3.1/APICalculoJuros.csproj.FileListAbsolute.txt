@@ -1,0 +1,16 @@
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\b\APICalculoJuros\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\b\APICalculoJuros\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\b\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.exe
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\b\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.deps.json
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\b\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.runtimeconfig.json
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\b\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.runtimeconfig.dev.json
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\b\APICalculoJuros\bin\Debug\netcoreapp3.1\APICalculoJuros.dll
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\APICalculoJuros\netcoreapp3.1\APICalculoJuros.AssemblyInfoInputs.cache
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\APICalculoJuros\netcoreapp3.1\APICalculoJuros.AssemblyInfo.cs
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\APICalculoJuros\netcoreapp3.1\staticwebassets\APICalculoJuros.StaticWebAssets.Manifest.cache
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\APICalculoJuros\netcoreapp3.1\staticwebassets\APICalculoJuros.StaticWebAssets.xml
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\APICalculoJuros\netcoreapp3.1\scopedcss\bundle\APICalculoJuros.styles.css
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\APICalculoJuros\netcoreapp3.1\APICalculoJuros.RazorTargetAssemblyInfo.cache
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\APICalculoJuros\netcoreapp3.1\APICalculoJuros.csproj.CopyComplete
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\APICalculoJuros\netcoreapp3.1\APICalculoJuros.dll
+C:\Users\clt-p\Desktop\Teste\.vs\Financeiro\v16\lut\0\i\APICalculoJuros\netcoreapp3.1\APICalculoJuros.genruntimeconfig.cache
